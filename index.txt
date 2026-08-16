@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Happy Birthday Madam Ji 🎉</title>
+<title>Happy Birthday Kristina 🎉</title>
 <style>
   body {
     margin: 0;
@@ -246,9 +246,9 @@ function cakeFunc() {
 
 // ------------------- 3-PAGE BOOK -------------------
 const pages = [
-  `Madam Ji, your beautiful ruby eyes sparkle brighter than the stars, and your smile lights up my entire world.`,
+  `Kristina, your beautiful ruby eyes sparkle brighter than the stars, and your smile lights up my entire world.`,
   `Every moment with you feels like magic (in my dreams ofcourse because we rarely talk in real life), and I am endlessly thankful to have you in my life. Your presence makes everything better, and your laughter is the sweetest music to my heart.`,
-  `On this special day, I want you to know how much you mean to me, how deeply I cherish you, Happy Birthday, Madam Ji! 💖`
+  `On this special day, I want you to know how much you mean to me, how deeply I cherish you, Happy Birthday, Kristina! 💖`
 ];
 
 let currentPage = 0;
